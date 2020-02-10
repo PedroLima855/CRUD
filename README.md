@@ -1,5 +1,5 @@
-# CRUD
-Crud de controle de carros
+# CRUD feito com JSF e Prime Faces 
+Crud de controle de carros:
 Um simples CRUD que pode gerenciar carros, na qual se pode adicionar atributos como modelo, fabricante, cor e ano,
 o ano eu adicionei como DATE então é selecionado a data no calendario para informar o ano do carro.
 Adicionei os arquivos com extenção .html e .java que são classes java a interface para encapsulamento e a entidade.
